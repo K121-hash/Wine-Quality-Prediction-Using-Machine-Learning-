@@ -1,8 +1,8 @@
-# Wine-Quality-Prediction-Using-Machine-Learning-
+# 🍷 Wine Quality Prediction Using Machine Learning
+
+
 Machine learning project for predicting wine quality using Random Forest, SGD, and Support Vector Classifier (SVC).
 
-
-# 🍷 Wine Quality Prediction Using Machine Learning
 
 ## 📌 Project Overview
 
@@ -40,7 +40,7 @@ The dataset used in this project is the **Wine Quality Dataset**.
 Dataset characteristics:
 
 - Number of observations: **1,599**
-- Number of features: **11**
+- Number of features: **12**
 - Target variable: **quality**
 - Dataset type: Classification
 
@@ -204,9 +204,9 @@ The results demonstrate that machine learning can effectively classify wine qual
 ```text
 wine-quality-prediction/
 
-│── Wine_Quality_Prediction.ipynb
-│── winequality-red.csv
 │── README.md
+│── Wine_Quality_Prediction.ipynb
+│── winequality.csv
 ```
 
 ---
